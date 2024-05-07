@@ -1,0 +1,22 @@
+{
+  "2000" : {
+    "az" : "UĞURLU",
+    "en" : "SUCCESSFUL",
+    "ru" : "УСПЕШНЫЙ"
+  },
+  "4000" : {
+    "az" : "YANLIŞ_TƏLƏB",
+    "en" : "BAD_REQUEST",
+    "ru" : "НЕПРАВИЛЬНЫЙ_ЗАПРОС"
+  },
+  "5001" : {
+    "az" : "BİLİNMƏYƏN_XƏTA",
+    "en" : "UNKNOWN_ERROR",
+    "ru" : "НЕИЗВЕСТНАЯ ОШИБКА"
+  },
+  "5005" : {
+    "az" : "DAXİLİ_SERVER_XƏTASI",
+    "en" : "INTERNAL_SERVER_ERROR",
+    "ru" : "ВНУТРЕННЯЯ ОШИБКА СЕРВЕРА"
+  }
+}
